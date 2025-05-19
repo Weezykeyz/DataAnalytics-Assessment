@@ -50,7 +50,7 @@ DataAnalytics-Assessment/
 └── README.md
 ```
 
-## 🚀 Submission Notes
+## Submission Notes
 
 - All work is original and aligned with the business logic stated in the assessment brief.
 - The SQL queries are clean, well-commented, and optimized for clarity.
